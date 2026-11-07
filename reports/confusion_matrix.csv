@@ -1,0 +1,14 @@
+,academic_calendar,admission,contact,courses,eligibility,examinations,fees,greeting,hostel,internships,library,placements,scholarships
+academic_calendar,4,0,0,0,0,0,0,0,0,0,0,0,0
+admission,0,5,0,0,0,0,0,0,0,0,0,0,0
+contact,0,0,4,0,0,0,0,0,0,0,0,1,0
+courses,0,0,0,4,0,0,1,0,0,0,0,0,0
+eligibility,0,2,0,0,3,0,0,0,0,0,0,0,0
+examinations,0,0,0,0,0,4,0,0,0,0,0,0,0
+fees,0,1,0,0,0,0,4,0,0,0,0,0,0
+greeting,1,0,0,0,0,0,0,4,0,0,0,0,0
+hostel,0,0,0,0,0,0,0,0,4,0,0,0,0
+internships,0,0,0,0,0,0,0,0,0,4,0,0,0
+library,0,0,0,0,0,0,0,0,0,0,5,0,0
+placements,0,0,0,0,0,0,0,0,0,0,0,4,0
+scholarships,0,0,0,0,0,0,0,0,0,0,0,0,5

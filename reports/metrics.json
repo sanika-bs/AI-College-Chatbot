@@ -1,0 +1,23 @@
+{
+  "model": "TF-IDF (word 1-2 + char 2-4 grams) + LogisticRegression",
+  "train_size": 239,
+  "test_size": 60,
+  "accuracy": 0.9,
+  "precision_weighted": 0.9254,
+  "recall_weighted": 0.9,
+  "f1_weighted": 0.9007,
+  "model_comparison_cv": {
+    "LogisticRegression": {
+      "cv_accuracy_mean": 0.8452,
+      "cv_accuracy_std": 0.0281
+    },
+    "LinearSVC": {
+      "cv_accuracy_mean": 0.845,
+      "cv_accuracy_std": 0.0435
+    },
+    "MultinomialNB": {
+      "cv_accuracy_mean": 0.8701,
+      "cv_accuracy_std": 0.0342
+    }
+  }
+}
